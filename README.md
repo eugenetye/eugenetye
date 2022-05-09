@@ -1,4 +1,4 @@
-#About me
+#### About me
 
 - 👋 Hi, I’m @eugenetye
 - 👀 I’m an aspiring software engineer and technology enthusiast
