@@ -1,3 +1,5 @@
+#About me
+
 - 👋 Hi, I’m @eugenetye
 - 👀 I’m an aspiring software engineer and technology enthusiast
 - 🌱 I’m currently a Junior majoring in Computer Science at Western Michigan University (WMU)
